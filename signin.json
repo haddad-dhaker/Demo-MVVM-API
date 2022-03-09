@@ -1,9 +1,9 @@
 {
-  "token": "MDHPKJnkjDKJCnKMJDNMKJDCMNK",
   "data": {
     "id": "1",
     "first_name": "first name",
     "last_name": "last name",
-    "email": "qmf@sjf.qfmvj"
+    "email": "qmf@sjf.qfmvj",
+    "token": "MDHPKJnkjDKJCnKMJDNMKJDCMNK"
   }
 }
