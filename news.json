@@ -1,42 +1,42 @@
 [
   {
-    title: "News title 1",
-    avatar_url: "https://cataas.com/cat/1"
+    "title": "News title 1",
+    "avatar_url": "https://cataas.com/cat/1"
   },
   {
-    title: "News title 2",
-    avatar_url: "https://cataas.com/cat/2"
+    "title": "News title 2",
+    "avatar_url": "https://cataas.com/cat/2"
   },
   {
-    title: "News title 3",
-    avatar_url: "https://cataas.com/cat/3"
+    "title": "News title 3",
+    "avatar_url": "https://cataas.com/cat/3"
   },
   {
-    title: "News title 4",
-    avatar_url: "https://cataas.com/cat/4"
+    "title": "News title 4",
+    "avatar_url": "https://cataas.com/cat/4"
   },
   {
-    title: "News title 5",
-    avatar_url: "https://cataas.com/cat/5"
+    "title": "News title 5",
+    "avatar_url": "https://cataas.com/cat/5"
   },
   {
-    title: "News title 6",
-    avatar_url: "https://cataas.com/cat/6"
+    "title": "News title 6",
+    "avatar_url": "https://cataas.com/cat/6"
   },
   {
-    title: "News title 7",
-    avatar_url: "https://cataas.com/cat/7"
+    "title": "News title 7",
+    "avatar_url": "https://cataas.com/cat/7"
   },
   {
-    title: "News title 8",
-    avatar_url: "https://cataas.com/cat/8"
+    "title": "News title 8",
+    "avatar_url": "https://cataas.com/cat/8"
   },
   {
-    title: "News title 9",
-    avatar_url: "https://cataas.com/cat/9"
+    "title": "News title 9",
+    "avatar_url": "https://cataas.com/cat/9"
   },
   {
-    title: "News title 10",
-    avatar_url: "https://cataas.com/cat/10"
+    "title": "News title 10",
+    "avatar_url": "https://cataas.com/cat/10"
   }
 ]
